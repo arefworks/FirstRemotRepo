@@ -8,5 +8,7 @@ namespace GirtTraining_DemoProject
 {
     class Branch_1_Class
     {
+
+        //  changes in the branch 1 
     }
 }
