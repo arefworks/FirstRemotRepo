@@ -10,11 +10,7 @@ namespace GirtTraining_DemoProject
     {
         static void Main(string[] args)
         {
-            // some changes form visual studio 2017
-
-            // lets make conflict with the master branch 
-
-            // lets make a new commit 
+            // changes for online 
         }
     }
 }
