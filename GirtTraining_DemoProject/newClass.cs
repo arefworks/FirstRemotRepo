@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace GirtTraining_DemoProject
 {
-    class Program
+    class newClass
     {
-        static void Main(string[] args)
-        {
-            // some changes form visual studio 2017
-        }
+
+
     }
 }
