@@ -11,6 +11,10 @@ namespace GirtTraining_DemoProject
         static void Main(string[] args)
         {
             // some changes form visual studio 2017
+
+            // more changes are made 
+
+            // lets make a new commit 
         }
     }
 }
