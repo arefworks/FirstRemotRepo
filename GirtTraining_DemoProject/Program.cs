@@ -12,7 +12,7 @@ namespace GirtTraining_DemoProject
         {
             // some changes form visual studio 2017
 
-            // more changes are made 
+            // lets make conflict with the master branch 
 
             // lets make a new commit 
         }
